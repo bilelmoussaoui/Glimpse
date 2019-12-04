@@ -11031,11 +11031,11 @@ msgstr ""
 
 #: ../app/config/gimprc-blurbs.h:462
 msgid "Save changed keyboard shortcuts when Glimpse exits."
-msgstr "Dumelire de GIMPo, konservi modifitajn klavkombinojn."
+msgstr "Dumelire de Glimpse, konservi modifitajn klavkombinojn."
 
 #: ../app/config/gimprc-blurbs.h:465
 msgid "Restore saved keyboard shortcuts on each Glimpse startup."
-msgstr "Ripari konservitajn klavkombinojn dum ĉiu GIMP-starto."
+msgstr "Ripari konservitajn klavkombinojn dum ĉiu Glimpse-starto."
 
 #: ../app/config/gimprc-blurbs.h:468
 msgid ""

@@ -18954,7 +18954,7 @@ msgstr "Dokumente"
 
 #: ../app/gui/splash.c:138
 msgid "Glimpse Startup"
-msgstr "GIMP-Start"
+msgstr "Glimpse-Start"
 
 #: ../app/paint/gimpairbrush.c:77 ../app/tools/gimpairbrushtool.c:67
 msgid "Airbrush"
